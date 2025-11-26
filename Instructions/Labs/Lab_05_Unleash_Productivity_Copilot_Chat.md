@@ -9,9 +9,9 @@
 
 使用 Teams 中的 Copilot 对话助手收集一些有关面试官及其角色的见解。 这项研究有助于更好地了解你将与谁交谈，以及他们的职责是什么。 对桌子对面的面试官有所了解总是有好处的！
 
-1.  你可以导航到以下 URL 打开 Microsoft Teams：[teams.microsoft.com](https://teams.microsoft.com)，也可以使用桌面应用程序。
+1. 你可以导航到以下 URL 打开 Microsoft Teams：[teams.microsoft.com](https://teams.microsoft.com)，也可以使用桌面应用程序。
 
-1.  选择屏幕左侧的 Copilot Chat 图标。
+1. 选择屏幕左侧的 Copilot Chat 图标。
 
 1. 确保屏幕顶部的切换开关设置为“**Web**”。
 
@@ -61,7 +61,7 @@
 
 这些回答很棒，你在面试前感到很有信心。 现在，我们来创建一个单一事实来源，供以后参考。 使用 Copilot 将问题和回答编译成常见问题解答 Word 文档。
 
-1. 在同一个 Copilot Chat 窗口中，提示 Copilot 
+1. 在同一个 Copilot 对话助手窗口中，提示 Copilot 执行以下操作：
 
     +++使用此输出创建 Word .docx 文档。+++
 
@@ -69,12 +69,12 @@
 
 1. 打开此文档进行审阅。
 
-1. 启用编辑以根据需要验证和更新文档。 
+1. 启用编辑以根据需要验证和更新文档。
 
 1. 选择“**文件”>“另存为**”。 浏览并导航到 OneDrive 文件夹。
 
 1. 将文档另存为**常见问题解答文档**。
-   
+
 #### （可选）练习 6 - 使用 Outlook 中的 Copilot 发送感谢电子邮件
 
 1. 打开 Outlook，选择“**新建电子邮件**”按钮，开始撰写感谢信。
